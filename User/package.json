@@ -1,0 +1,15 @@
+{
+  "name": "rest-api-hw3",
+  "version": "1.0.0",
+  "description": "HW3 for MEAN Stack Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minhaj Ahmed Moin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
